@@ -13,9 +13,9 @@ const Navigation = ({ account, setAccount }) => {
     <nav>
       <div className='nav__brand'>
         <img src={ logo } alt="logo" />
-        <h2>ETH Daddy</h2> 
+        <h2>ETH Daddy</h2>
         <ul className='nav__links'>
-          <li><a href="/">Domains names</a></li>
+          <li><a href="/">Domain names</a></li>
           <li><a href="/">Websites & Hosting</a></li>
           <li><a href="/">Commerce</a></li>
           <li><a href="/">Email & Marketing</a></li>
